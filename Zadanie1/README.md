@@ -3,7 +3,7 @@ Wykonaj statyczną stronę www przy użyciu HTML, CSS i prostego skryptu JS.
 
 Do wykonania użyj przygotowanego boilerplate'a
 
-Link do projektu graficznego: [Integracja testowa](https://www.figma.com/file/x9qp90GY735PjhbYn6YlAt/Blog-Integracja-testowa-dla-FED?node-id=9%3A65)
+Link do projektu graficznego: [Integracja testowa](https://www.figma.com/proto/x9qp90GY735PjhbYn6YlAt/Blog-Integracja-testowa-dla-FED?node-id=9%3A66&scaling=min-zoom&page-id=9%3A65&starting-point-node-id=9%3A66)
 
 ## Opis wykonania
 
